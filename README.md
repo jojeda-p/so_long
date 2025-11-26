@@ -1,0 +1,1 @@
+Add Minilib before make.
